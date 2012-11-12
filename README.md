@@ -1,4 +1,3 @@
 To use:
-1. type in "ruby apartmentlist.rb" in terminal
-2. type in the string you want to normalize
-3. press enter
+Type in "ruby apartmentlist.rb" in terminal and follow instructions
+To run tests, type in "ruby apartmentlisttest.rb"
